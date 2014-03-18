@@ -1,2 +1,7 @@
 Debugging Managed Applications using Windbg
 --------------------------------------------
+.Windbg - up and running
+.Debugging a simple crash using Windbg
+. Attaching to a running process
+. Live debugging workflow basics
+.Post-mortem debugging of a simple crash
